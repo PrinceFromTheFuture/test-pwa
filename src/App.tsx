@@ -52,6 +52,10 @@ export default function App() {
             fjkl
           </motion.div>
         )}
+        <div>
+          <input type="date" />
+          date
+        </div>
       </AnimatePresence>
     </div>
   );
